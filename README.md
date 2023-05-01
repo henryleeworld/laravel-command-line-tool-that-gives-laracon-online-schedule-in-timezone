@@ -1,4 +1,4 @@
-# Laravel 8 提供依據時區 Laracon 線上研討會時程的命令列工具
+# Laravel 9 提供依據時區 Laracon 線上研討會時程的命令列工具
 
 引入 nunomaduro 的 laracon-schedule 套件來擴增提供依據時區 Laracon 線上研討會時程的命令列工具，該年度研討會聚集了許多充滿幹勁與熱情的各路英雄好漢使用 Laravel 網站框架建構功能強大的應用程式分享實戰經驗，提供第一手的 Laravel 資訊並分享極致效能的議題，千萬別錯過這些高手們交流的機會。
 
@@ -24,5 +24,5 @@ $ laracon-schedule
 ----
 
 ## 畫面截圖
-![](https://i.imgur.com/M1uoyNZ.png)
+![](https://i.imgur.com/Q4aI3fb.png)
 > 透過高手們的經驗分享，讓我們更能掌握未來的脈絡
