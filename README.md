@@ -1,4 +1,4 @@
-# Laravel 11 提供依據時區 Laracon 線上研討會時程的命令列工具
+# Laravel 12 提供依據時區 Laracon 線上研討會時程的命令列工具
 
 引入 nunomaduro 的 laracon-schedule 套件來擴增提供依據時區 Laracon 線上研討會時程的命令列工具，該年度研討會聚集了許多充滿幹勁與熱情的各路英雄好漢使用 Laravel 網站框架建構功能強大的應用程式分享實戰經驗，提供第一手的 Laravel 資訊並分享極致效能的議題，千萬別錯過這些高手們交流的機會。
 
@@ -16,13 +16,13 @@ $ composer install
 ```sh
 $ php artisan key:generate
 ```
-- 執行 __laracon-schedule__ 指令來取得依據時區 Laracon 線上研討會時程。
+- 你可以使用 `./vendor/bin/laracon-schedule` 指令來取得依據時區 Laracon 線上研討會時程。
 ```sh
-$ laracon-schedule
+$ ./vendor/bin/laracon-schedule
 ```
 
 ----
 
 ## 畫面截圖
-![](https://i.imgur.com/O7N4OuH.png)
+![](https://i.imgur.com/gapMbUC.png)
 > 透過高手們的經驗分享，讓我們更能掌握未來的脈絡
